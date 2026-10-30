@@ -1,4 +1,7 @@
+<img src="https://i.ibb.co/fVpDWDmR/Modern-Tech-Portfolio-Banner-Main-1.jpg" alt="Modern Tech Portfolio Banner Main (1)" border="0">
+
 <h1 align="center">Hello Dear, I'm Anupam Kumar Mondal</h1>
+
 <h3 align="center">Professional Web Designer & Developer, WordPress Expert & Graphic Designer | Helping To Create Stunning, Functional Websites & Graphic Design Services.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anupamkbd&label=Profile%20views&color=0e75b6&style=flat" alt="anupamkbd" /> </p>
